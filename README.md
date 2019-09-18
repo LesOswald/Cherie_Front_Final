@@ -1,10 +1,13 @@
-# CherieFinal
+# Cherie
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+Proyecto web e-commerce desarrollado con Angular 8. 
+Más información [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
-## Development server
+## Descarga y configuración
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Descarga o clona este repositorio. Ubícate en el proyecto y en tu línea de comandos escribe `npm install` para instalar todas las dependencias y paquetes. Después de esto, escribe `ng serve` para ejecutar el servidor de desarrollo. Abre una nueva pestaña en tu navegador (Google Chrome preferiblemente) y dirígite hacia la URL `http://localhost:4200/` para visualizar la ejecución del proyecto.
+
+# Angular
 
 ## Code scaffolding
 
